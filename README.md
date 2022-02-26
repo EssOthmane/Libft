@@ -1,4 +1,4 @@
-# Libft
+# Libft 📚
 
 This is the first project of the 42cursus.
 
