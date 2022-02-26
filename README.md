@@ -19,6 +19,6 @@ This is the first project of the 42cursus.
 125/100.
 
 ### How to use
- 1 Include the header file 'libft.h' in your main file.
- 2 Type 'make' for the compilation process.
- 3 Compile your main file with the archive libft.a.
+ 1. Include the header file 'libft.h' in your main file.
+ 2. Type 'make' for the compilation process.
+ 3. Compile your main file with the archive libft.a.
