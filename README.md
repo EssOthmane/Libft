@@ -20,5 +20,5 @@ This is the first project of the 42cursus.
 
 ### How to use
  1. Include the header file 'libft.h' in your main file.
- 2. Type 'make' for the compilation process.
+ 2. Type 'make' for the compilation process. (in the terminal)
  3. Compile your main file with the archive libft.a.
