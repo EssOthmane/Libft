@@ -9,7 +9,7 @@ This is the first project of the 42cursus.
 
 ### What I've learnt from this project
   * Basics of C programming.
-  * Manipulation of data structures (Linked lists).
+  * Manipulation of data structures (Linked lists for the bonus part).
   * Creation of a static library.
   * Creation of a Makefile to automate compilation.
   * A little bit of problem solving.
