@@ -15,9 +15,6 @@ This is the first project of the 42cursus.
   * Problem solving.
   * Unix logic.
 
-### Final grade
-125/100.
-
 ### How to use the library
  1. Include the header file 'libft.h' in your main file.
  2. Type 'make' in the terminal for the compilation process. ('make' for the mandatory part, 'make bonus' for the bonus part (linked list functions))
