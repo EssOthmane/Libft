@@ -7,7 +7,7 @@ This is the first project of the 42cursus.
   * Code other functions for the manipulation of strings, integers, linked lists... (Allowed functions : write, malloc, free)
   * Create a Makefile that compiles them and put it in an archive.
 
-### What I've learnt from this project
+### Skills learnt from this project
   * Basics of C programming.
   * Manipulation of data structures (Linked lists for the bonus part).
   * Creation of a static library.
